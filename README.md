@@ -1,2 +1,1 @@
-# Curso_Cucumber
-Curso de Automação com Cucumber
+# Curso de Automação de Testes com Cucumber
